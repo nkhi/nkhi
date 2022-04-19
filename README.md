@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋🏽
 
-<!--
+
 **nkhi/nkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Recently played on Spotify:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nikhibhambra&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nikhibhambra&redirect=true)
