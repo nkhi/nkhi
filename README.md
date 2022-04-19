@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Recently played on Spotify:
+Most recent activity <a href="https://sptfy.com/nikhi">on Spotify</a>:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nikhibhambra&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nikhibhambra&redirect=true)
