@@ -3,7 +3,7 @@
 
 - I graduated from the University of Toronto with a degree in Computer and Cognitive Sciences 🧠
 - I work at <a href="https://www.apollographql.com/studio/observe/">Apollo GraphQL</a>, on the team that powers all of Apollo's graph analytics and insight products 🔭
-- In my free time I work on helpful browser extensions at <a href="github.com/room738/">room738</a> 😁
+- In my free time I work on helpful browser extensions at <a href="https://github.com/room738/">room738</a> 😁
 
 ### <a href="https://sptfy.com/nikhi">Right now I'm listening to</a><a href="https://soundcloud.com/738">:</a>
 
